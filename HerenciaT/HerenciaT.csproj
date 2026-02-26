@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Clases\CuentaAhorros.cs" />
+    <Compile Include="Clases\CuentaBancaria.cs" />
+    <Compile Include="Clases\CuentaCorriente.cs" />
+    <Compile Include="Clases\CuentaNomina.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
